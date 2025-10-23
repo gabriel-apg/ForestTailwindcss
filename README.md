@@ -29,5 +29,5 @@ Este projeto tem como objetivo demonstrar o uso avançado do Tailwind em uma lan
 ---
 
 ## 📂 Link do Projeto
-
+https://gabriel-apg.github.io/ForestTailwindcss
 
